@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(to right, #00c6ff, #0072ff); /* kék-zöld színátmenet */
+}
+
+#dátum{
+    float: inline-start;
+    font-size: 2rem;
+    color: #4A90E2;  /* Kék szín */
+    text-align: center;
+    text-transform: uppercase;  /* Nagybetűs */
+    letter-spacing: 2px;  /* Távolság a betűk között */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);  /* Finom árnyék */
+    margin-bottom: 20px;
+    background-color: white;
+}
+h2{
+    font-size: 3rem;
+    color: #4A90E2;  /* Kék szín */
+    text-transform: uppercase;  /* Nagybetűs */
+    letter-spacing: 2px;  /* Távolság a betűk között */
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);  /* Finom árnyék */
+    margin-bottom: 20px;
+    background-color: white;
+}
